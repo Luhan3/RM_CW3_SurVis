@@ -11,6 +11,16 @@ define({
             "description": "Official report by government agencies"
         },
 
+        "category:behavioral_drivers": {
+            "description": "bd"
+        },
+        "category:predictive_modeling": {
+            "description": "pm"
+        },
+        "category:data_integration": {
+            "description": "di"
+        },
+        
         // 研究领域（Domain）
         "domain:public_health": {
             "description": "Research related to population health interventions"
